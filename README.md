@@ -1,4 +1,4 @@
-# Screen-Recorder
+# Screen-Recorder-OpenCV
 One can record his/her laptop's screen using this programme.
 ## Required Modules :
 Numpy: pip install numpy
